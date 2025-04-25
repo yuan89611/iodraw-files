@@ -166,8 +166,8 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-75" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="358" y="360" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-78" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="400" width="142.5" height="20" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-78" value="每日定时饲喂，自由饮水" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="429.37" width="142.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
