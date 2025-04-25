@@ -122,13 +122,13 @@
           <mxGeometry x="200" y="390" width="50" height="28.75" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-44" value="35头育肥湖羊分四组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="360" width="142.5" height="20" as="geometry" />
+          <mxGeometry x="395.5" y="360" width="142.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-45" value="动物试验设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="335" y="373.40000000000003" width="25" height="93.2" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-47" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="409.37" width="142.5" height="20" as="geometry" />
+          <mxGeometry x="395.5" y="409.37" width="142.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4TnUsovMQaxl9owzA7mo-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,7 +167,7 @@
           <mxGeometry x="358" y="360" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-78" value="每日定时饲喂，自由饮水" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="458.37" width="142.5" height="20" as="geometry" />
+          <mxGeometry x="395.5" y="458.37" width="142.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
