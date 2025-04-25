@@ -175,8 +175,8 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="354" width="20" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-81" value="添加剂量选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="150.01" width="25" height="110" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-81" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="367" width="25" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
