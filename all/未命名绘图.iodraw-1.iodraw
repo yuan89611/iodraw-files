@@ -130,7 +130,7 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-47" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="446.19" width="148" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-81">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-81" target="4TnUsovMQaxl9owzA7mo-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="575" y="425.00000000000006" as="sourcePoint" />
             <mxPoint x="580" y="370" as="targetPoint" />
@@ -182,7 +182,7 @@
           <mxGeometry x="760" y="142.19" width="30" height="105.62" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-89" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="348.72" width="30" height="71.28" as="geometry" />
+          <mxGeometry x="585" y="357.47" width="30" height="61.28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
