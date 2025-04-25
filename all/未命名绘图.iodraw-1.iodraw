@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-30" value="低剂量丁酸钠组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="140.01" width="70" height="35" as="geometry" />
+          <mxGeometry x="650" y="140.01" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-34" value="高剂量丁酸钠组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="214" width="70" height="35" as="geometry" />
@@ -104,12 +104,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="193.38" as="sourcePoint" />
             <mxPoint x="692.5" y="223.38" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="157.01" as="sourcePoint" />
-            <mxPoint x="770" y="157.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
