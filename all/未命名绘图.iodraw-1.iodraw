@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-10" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="280" y="188.76" width="160" height="20" as="geometry" />
+          <mxGeometry x="280" y="188" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-12" value="应用可行性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="460" y="188" width="110" height="20" as="geometry" />
