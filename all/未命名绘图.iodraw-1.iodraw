@@ -208,6 +208,9 @@
             <mxPoint x="650" y="429.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-97" value="采血、肠道组织、结肠内容物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="457.5" width="130" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
