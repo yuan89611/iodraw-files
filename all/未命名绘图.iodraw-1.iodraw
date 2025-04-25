@@ -178,8 +178,8 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-85" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="745" y="167.32" width="10" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-86" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-86" value="制成成品颗粒饲料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="167.32" width="30" height="82.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
