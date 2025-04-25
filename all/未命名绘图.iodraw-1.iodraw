@@ -121,8 +121,11 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="50" height="28.75" as="geometry" />
         </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-42" target="4TnUsovMQaxl9owzA7mo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-42" value="丁酸钠作为添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="280" y="349.37" width="310" height="30" as="geometry" />
+          <mxGeometry x="540" y="390" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-42" target="4TnUsovMQaxl9owzA7mo-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
