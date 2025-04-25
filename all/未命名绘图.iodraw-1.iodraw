@@ -124,6 +124,9 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-44" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="349.38" width="180" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-45" target="4TnUsovMQaxl9owzA7mo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-45" value="选择及分组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="335" y="376.8" width="25" height="86.41" as="geometry" />
         </mxCell>
