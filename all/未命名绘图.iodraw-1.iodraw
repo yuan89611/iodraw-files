@@ -26,7 +26,7 @@
           <mxGeometry x="280" y="188.76" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-12" value="应用可行性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="188.76" width="90" height="19" as="geometry" />
+          <mxGeometry x="390" y="188.76" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4TnUsovMQaxl9owzA7mo-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="220" width="40" height="20" as="geometry" />
+          <mxGeometry x="280" y="220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
