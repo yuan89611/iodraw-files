@@ -29,7 +29,7 @@
           <mxGeometry x="342.5" y="360.32" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-45" value="动物试验设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="280" y="388.72" width="25" height="96" as="geometry" />
+          <mxGeometry x="280" y="375" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-47" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="446.19" width="148" height="20" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="497.5" y="369.32" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-81" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="380.32" width="25" height="110" as="geometry" />
+          <mxGeometry x="522.5" y="375.82" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-83" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="440" width="27.5" height="70" as="geometry" />
