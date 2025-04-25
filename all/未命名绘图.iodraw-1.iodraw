@@ -124,12 +124,6 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-42" value="丁酸钠作为添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="540" y="390" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-42" target="4TnUsovMQaxl9owzA7mo-44">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="379.37" as="sourcePoint" />
-            <mxPoint x="340" y="399.37" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-44" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="270" y="349.38" width="180" height="20" as="geometry" />
         </mxCell>
@@ -148,29 +142,11 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-48" value="适口性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="438.37" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-44" target="4TnUsovMQaxl9owzA7mo-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="418.75" as="sourcePoint" />
-            <mxPoint x="275" y="448.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-44" target="4TnUsovMQaxl9owzA7mo-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="419.37" as="sourcePoint" />
-            <mxPoint x="382" y="439.38" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-51" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="470" y="438.37" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-52" value="经济性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="535" y="438.37" width="55" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-45" target="4TnUsovMQaxl9owzA7mo-51">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="483" y="417.37" as="sourcePoint" />
-            <mxPoint x="413" y="447.75" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-45" target="4TnUsovMQaxl9owzA7mo-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -180,12 +156,6 @@
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-55" value="生产性能" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="405" y="438.37" width="55" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-44" target="4TnUsovMQaxl9owzA7mo-55">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="419.37" as="sourcePoint" />
-            <mxPoint x="414" y="459.37" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-42" target="4TnUsovMQaxl9owzA7mo-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
