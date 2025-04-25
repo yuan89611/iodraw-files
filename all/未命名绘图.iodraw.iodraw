@@ -1,0 +1,87 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="2Y0XQYCgEy8QrC1prZWQ">
+    <mxGraphModel dx="1173" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-2" value="添加剂筛选与剂量确定&#xa;● 安全性分析&#xa;● 可行性分析&#xa;● 0.1%-0.2%剂量筛选" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="294" y="20" width="220" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-3" value="动物试验设计&#xa;35只湖羊分4组&#xa;NC（3）、HC（16）、LSB（8）、HSB（8）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="171" width="270" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-4" value="饲喂管理&#xa;● 7天预实验，30天周期&#xa;● 定时饲喂+自由饮水&#xa;● 采食量/PH/体重监测" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="293" y="305" width="223" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-5" value="样本采集&#xa;● 血液&#xa;● 肠道组织空肠、结肠&#xa;● 结肠内容物" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="295" y="457" width="218" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-6" value="多组学技术分析&#xa;▸ 转录组测序RNA-seq&#xa;▸ 宏基因组测序&#xa;▸ 代谢组LC-MS/MS&#xa;▸ ATAC-seq" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="608" width="217" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-7" value="分子生物学检测&#xa;▹ qPCR检测炎症因子&#xa;▹ Western Blot蛋白分析" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="287" y="626" width="234" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-8" value="形态学观察&#xa;◈ HE染色结构分析&#xa;◈ TUNEL细胞凋亡检测" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="571" y="626" width="221" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-9" value="数据整合分析&#xa;◆ 统计学检验ANOVA/Tukey&#xa;◆ 多组学联合分析&#xa;◆ 通路富集KEGG/GSEA" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="278" y="777" width="251" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-2" target="yuyoiEr_-nFOmcD_ji9c-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-3" target="yuyoiEr_-nFOmcD_ji9c-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-4" target="yuyoiEr_-nFOmcD_ji9c-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-5" target="yuyoiEr_-nFOmcD_ji9c-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-5" target="yuyoiEr_-nFOmcD_ji9c-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-5" target="yuyoiEr_-nFOmcD_ji9c-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-6" target="yuyoiEr_-nFOmcD_ji9c-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-7" target="yuyoiEr_-nFOmcD_ji9c-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuyoiEr_-nFOmcD_ji9c-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.17;rounded=0;" parent="1" source="yuyoiEr_-nFOmcD_ji9c-8" target="yuyoiEr_-nFOmcD_ji9c-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
