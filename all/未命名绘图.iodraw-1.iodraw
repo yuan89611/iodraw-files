@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4TnUsovMQaxl9owzA7mo-1" value="研究内容一：&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;添加剂筛选与添加剂量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="170" width="270" height="60" as="geometry" />
+          <mxGeometry y="170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
