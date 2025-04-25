@@ -136,7 +136,7 @@
             <mxPoint x="670" y="368.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-60" value="低剂量丁酸钠组&lt;div&gt;每千克千分之一&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-60" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="344.37" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-61" value="高剂量丁酸钠组&lt;div&gt;每千克千分之二&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
