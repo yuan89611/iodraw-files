@@ -134,6 +134,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="409.68000000000006" as="sourcePoint" />
             <mxPoint x="670" y="368.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-60" value="低剂量丁酸钠组&lt;div&gt;每千克千分之一&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -176,7 +179,7 @@
           <mxGeometry x="552.5" y="354" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-81" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="367" width="25" height="110" as="geometry" />
+          <mxGeometry x="578" y="365" width="25" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
