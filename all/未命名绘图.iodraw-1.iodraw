@@ -85,8 +85,8 @@
             <mxPoint x="620" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="144.38" width="50" height="110" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-28" value="添加剂量选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="144.38" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
