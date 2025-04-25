@@ -172,8 +172,8 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-82" value="试验第1天、第15天和第30天称重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="394.07" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-83" value="饲喂结束后屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="460" width="47.5" height="20" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-83" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="430" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-85" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="745" y="167.32" width="10" height="65" as="geometry" />
