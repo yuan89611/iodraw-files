@@ -169,8 +169,8 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-78" value="每日定时饲喂，自由饮水" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="396.5" y="466.6" width="148" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-79" value="35头育肥湖羊分四组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="406.5" y="370" width="148" height="20" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-79" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;NC（3）、HC（16）、LSB（8）、HSB（8）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="380" width="148" height="34.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
