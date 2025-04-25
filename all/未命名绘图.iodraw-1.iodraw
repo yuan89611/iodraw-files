@@ -16,7 +16,7 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-6" value="丁酸钠作为添加剂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4TnUsovMQaxl9owzA7mo-10">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-6" target="4TnUsovMQaxl9owzA7mo-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="170" as="sourcePoint" />
             <mxPoint x="340" y="190" as="targetPoint" />
@@ -28,7 +28,7 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-12" value="应用可行性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="189.38" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4TnUsovMQaxl9owzA7mo-12">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-6" target="4TnUsovMQaxl9owzA7mo-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="170" as="sourcePoint" />
             <mxPoint x="430" y="210" as="targetPoint" />
