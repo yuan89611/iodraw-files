@@ -52,7 +52,7 @@
             <mxPoint x="382" y="230.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-21" value="毒性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-21" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="229" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-22" value="适口性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
