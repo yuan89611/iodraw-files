@@ -170,7 +170,7 @@
           <mxGeometry x="523" y="380.32" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-82" value="试验第1天、第15天和第30天称重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="417.82" width="130" height="35" as="geometry" />
+          <mxGeometry x="640" y="405" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-83" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="440" width="27.5" height="62" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-89" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="357.47" width="30" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-89">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-89" target="4TnUsovMQaxl9owzA7mo-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="628" y="426.37" as="sourcePoint" />
             <mxPoint x="650" y="379.37" as="targetPoint" />
