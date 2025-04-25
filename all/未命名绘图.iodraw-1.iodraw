@@ -178,11 +178,14 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-81" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="380.32" width="25" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-82" target="4TnUsovMQaxl9owzA7mo-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-82" value="试验第1天、第15天和第30天称重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="621" y="400" width="130" height="35" as="geometry" />
+          <mxGeometry x="620" y="394.69" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-83" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;每周监测粪便&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;pH&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="466.19" width="130" height="18.75" as="geometry" />
+          <mxGeometry x="620" y="446.19" width="130" height="18.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
