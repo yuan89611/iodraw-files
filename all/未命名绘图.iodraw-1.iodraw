@@ -88,11 +88,14 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-28" value="添加剂量选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="144.38" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-28" target="4TnUsovMQaxl9owzA7mo-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="360" as="sourcePoint" />
-            <mxPoint x="440" y="310" as="targetPoint" />
+            <mxPoint x="620" y="208.76" as="sourcePoint" />
+            <mxPoint x="670" y="158.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
