@@ -124,7 +124,7 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-44" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="345" y="349.38" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-45" value="应用可行性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-45" value="试验动物选择及分组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="354" y="384.38" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-47" value="毒性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -157,7 +157,7 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-66" value="丁酸钠作为饲料添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="280" y="344.65000000000003" width="25" height="150.7" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4TnUsovMQaxl9owzA7mo-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="305" y="423.37" as="sourcePoint" />
             <mxPoint x="355" y="373.37" as="targetPoint" />
