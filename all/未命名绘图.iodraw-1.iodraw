@@ -181,8 +181,8 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-86" value="制成成品颗粒饲料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="142.19" width="30" height="105.62" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="348.72" width="120" height="60" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-89" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="348.72" width="30" height="71.28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
