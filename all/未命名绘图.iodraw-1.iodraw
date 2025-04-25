@@ -173,16 +173,13 @@
           <mxGeometry x="640" y="405" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-83" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="440" width="27.5" height="62" as="geometry" />
+          <mxGeometry x="572.5" y="440" width="27.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-85" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="745" y="167.32" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-86" value="制成成品颗粒饲料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="142.19" width="30" height="105.62" as="geometry" />
-        </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-89" target="4TnUsovMQaxl9owzA7mo-83">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-89" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="350" width="30" height="70" as="geometry" />
@@ -203,6 +200,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="445.47" as="sourcePoint" />
             <mxPoint x="662" y="398.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
