@@ -179,7 +179,7 @@
           <mxGeometry x="745" y="167.32" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-86" value="制成成品颗粒饲料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="167.32" width="30" height="82.68" as="geometry" />
+          <mxGeometry x="760" y="150" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
