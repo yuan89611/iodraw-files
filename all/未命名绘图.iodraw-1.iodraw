@@ -125,13 +125,10 @@
           <mxGeometry x="355" y="349.38" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-45" value="应用可行性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="395" y="369.38" width="120" height="20" as="geometry" />
+          <mxGeometry x="354" y="384.38" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-47" value="毒性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="395" y="410" width="55" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-48" value="适口性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="375" y="438.37" width="55" height="20" as="geometry" />
+          <mxGeometry x="470" y="423.37" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4TnUsovMQaxl9owzA7mo-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -160,8 +157,11 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-66" value="丁酸钠作为饲料添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="285" y="329.02000000000004" width="25" height="150.7" as="geometry" />
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-48" target="4TnUsovMQaxl9owzA7mo-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402.5" y="458.3699999999999" as="sourcePoint" />
+            <mxPoint x="416.25" y="458.3699999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
