@@ -100,6 +100,12 @@
         <mxCell id="4TnUsovMQaxl9owzA7mo-34" value="低剂量丁酸钠组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="223.38" width="90" height="25.62" as="geometry" />
         </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.5" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
