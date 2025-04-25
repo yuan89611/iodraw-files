@@ -94,8 +94,8 @@
             <mxPoint x="670" y="158.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4TnUsovMQaxl9owzA7mo-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="144.38" width="80" height="25.62" as="geometry" />
+        <mxCell id="4TnUsovMQaxl9owzA7mo-30" value="低剂量丁酸钠组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="144.38" width="90" height="25.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
