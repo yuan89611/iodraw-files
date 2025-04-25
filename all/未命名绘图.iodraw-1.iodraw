@@ -70,6 +70,9 @@
             <mxPoint x="520" y="229.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4TnUsovMQaxl9owzA7mo-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-25" target="4TnUsovMQaxl9owzA7mo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-25" value="生产性能" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="417" y="229" width="55" height="20" as="geometry" />
         </mxCell>
