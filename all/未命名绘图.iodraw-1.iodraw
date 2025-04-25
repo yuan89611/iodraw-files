@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-75" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="360" y="350" width="30" height="125" as="geometry" />
+          <mxGeometry x="360" y="354" width="30" height="123" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-78" value="每日定时饲喂，自由饮水" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="466.6" width="148" height="20" as="geometry" />
