@@ -143,7 +143,7 @@
           <mxGeometry x="405" y="438.37" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-58" value="添加剂量选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="349.38" width="20" height="110" as="geometry" />
+          <mxGeometry x="610" y="354.68" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4TnUsovMQaxl9owzA7mo-58" target="4TnUsovMQaxl9owzA7mo-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4TnUsovMQaxl9owzA7mo-66" value="丁酸钠作为添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="379.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="525" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
