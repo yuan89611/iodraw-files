@@ -337,55 +337,55 @@
           <mxGeometry x="200" y="158.13" width="60" height="28.75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-7" value="35头育肥湖羊分四组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="110.32" width="148" height="20" as="geometry" />
+          <mxGeometry x="341.5" y="110.32" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-8" value="动物试验设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="274" y="125" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-9" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="196.19" width="148" height="20" as="geometry" />
+          <mxGeometry x="341.5" y="196.19" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-17" target="c4NzuB29dhGZa8C2kVkc-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="175.00000000000006" as="sourcePoint" />
-            <mxPoint x="580" y="120" as="targetPoint" />
+            <mxPoint x="574" y="175.00000000000006" as="sourcePoint" />
+            <mxPoint x="579" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-17" target="c4NzuB29dhGZa8C2kVkc-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="168.07" as="sourcePoint" />
-            <mxPoint x="637.5" y="198.07" as="targetPoint" />
+            <mxPoint x="574" y="168.07" as="sourcePoint" />
+            <mxPoint x="636.5" y="198.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="305" y="119.32" width="30" height="123" as="geometry" />
+          <mxGeometry x="301" y="119.32" width="30" height="123" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-14" value="每日定时饲喂，自由饮水" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="231.92000000000002" width="148" height="20" as="geometry" />
+          <mxGeometry x="341.5" y="231.92000000000002" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-15" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;NC（3）、HC（16）、LSB（8）、HSB（8）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="144.69" width="148" height="34.38" as="geometry" />
+          <mxGeometry x="341.5" y="144.69" width="148" height="34.38" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="119.32" width="20" height="123" as="geometry" />
+          <mxGeometry x="496.5" y="119.32" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-17" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="125.82" width="25" height="110" as="geometry" />
+          <mxGeometry x="521.5" y="125.82" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-18" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="190" width="27.5" height="70" as="geometry" />
+          <mxGeometry x="571.5" y="190" width="27.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-18" target="c4NzuB29dhGZa8C2kVkc-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="229.07" as="sourcePoint" />
-            <mxPoint x="650" y="179.07" as="targetPoint" />
+            <mxPoint x="599" y="229.07" as="sourcePoint" />
+            <mxPoint x="649" y="179.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-20" value="采血、肠道组织、结肠内容物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="207.5" width="130" height="35" as="geometry" />
+          <mxGeometry x="639" y="207.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="90.32" width="200" height="99.68" as="geometry" />
+          <mxGeometry x="569" y="90.32" width="200" height="99.68" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-22" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="c4NzuB29dhGZa8C2kVkc-21">
           <mxGeometry x="70" width="130" height="20" as="geometry" />
