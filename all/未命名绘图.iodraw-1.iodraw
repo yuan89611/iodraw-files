@@ -406,7 +406,7 @@
           <mxGeometry x="277" y="654.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-68" value="检测紧密连接蛋白表达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="703" width="70" height="60" as="geometry" />
+          <mxGeometry x="640" y="705" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-70" value="SDS-PAGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="645.13" width="90" height="20" as="geometry" />
