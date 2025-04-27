@@ -493,7 +493,7 @@
           <mxGeometry x="543" y="378.13" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="Claudin-1、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543" y="447.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="543" y="438" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="丁酸钠调控信号通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="340" width="140" height="20" as="geometry" />
@@ -516,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="447.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="443" y="438" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-73" target="c4NzuB29dhGZa8C2kVkc-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -550,7 +550,7 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-75" target="c4NzuB29dhGZa8C2kVkc-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="370" as="sourcePoint" />
             <mxPoint x="700" y="388" as="targetPoint" />
