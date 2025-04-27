@@ -409,7 +409,7 @@
           <mxGeometry x="762.5" y="497.9999999999999" width="27.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-70" value="采血、肠道组织、结肠内容物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="433.9999999999999" width="130" height="35" as="geometry" />
+          <mxGeometry x="670" y="433.9999999999999" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
