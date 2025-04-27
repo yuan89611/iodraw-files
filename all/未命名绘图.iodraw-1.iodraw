@@ -501,11 +501,14 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-95" value="RT-qPCR 技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="461" y="382" width="65" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="430" as="sourcePoint" />
-            <mxPoint x="440" y="380" as="targetPoint" />
+            <mxPoint x="537.25" y="440" as="sourcePoint" />
+            <mxPoint x="587.25" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
