@@ -565,6 +565,129 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-113" value="PKC-α/RhoA、MAPK信号通路磷酸化程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="724.94" y="705" width="90" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容一：&lt;/font&gt;&lt;span style=&quot;&quot;&gt;添加剂筛选与添加剂量&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="170" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="184.38" width="60" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fVGK1QXynFfIW2dGcDd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="230" as="sourcePoint" />
+            <mxPoint x="100" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fVGK1QXynFfIW2dGcDd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="290" as="sourcePoint" />
+            <mxPoint x="535" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="120" width="550" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-6" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry width="550" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-7" value="丁酸钠作为饲料添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="20" y="20" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-7" target="-fVGK1QXynFfIW2dGcDd-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="50" as="sourcePoint" />
+            <mxPoint x="80" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-9" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="20" y="68" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-10" value="应用可行性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="200" y="68" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-7" target="-fVGK1QXynFfIW2dGcDd-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="50" as="sourcePoint" />
+            <mxPoint x="170" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-12" value="毒性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="20" y="110" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-13" value="适口性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="74.5" y="109" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-9" target="-fVGK1QXynFfIW2dGcDd-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="89.38" as="sourcePoint" />
+            <mxPoint x="15" y="119.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-9" target="-fVGK1QXynFfIW2dGcDd-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="90" as="sourcePoint" />
+            <mxPoint x="122" y="110.00999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-16" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="200" y="109" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-17" value="经济性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="261.5" y="109" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-10" target="-fVGK1QXynFfIW2dGcDd-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223" y="88" as="sourcePoint" />
+            <mxPoint x="153" y="118.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-10" target="-fVGK1QXynFfIW2dGcDd-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223" y="88" as="sourcePoint" />
+            <mxPoint x="260" y="109.00999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-20" value="生产性能" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="130" y="109" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-9" target="-fVGK1QXynFfIW2dGcDd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104" y="90" as="sourcePoint" />
+            <mxPoint x="154" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-7" target="-fVGK1QXynFfIW2dGcDd-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="30" as="sourcePoint" />
+            <mxPoint x="360" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-23" value="添加剂量选择" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="330" y="24.379999999999995" width="25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-23" target="-fVGK1QXynFfIW2dGcDd-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="88.75999999999999" as="sourcePoint" />
+            <mxPoint x="410" y="38.75999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-25" value="低剂量丁酸钠组&lt;div&gt;每千克0.1克&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="370" y="33.75999999999999" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-26" value="高剂量丁酸钠组&lt;div&gt;每千克0.2克&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="370" y="88.75999999999999" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-fVGK1QXynFfIW2dGcDd-5" source="-fVGK1QXynFfIW2dGcDd-23" target="-fVGK1QXynFfIW2dGcDd-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="73.38" as="sourcePoint" />
+            <mxPoint x="432.5" y="103.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="485" y="47.31999999999999" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-fVGK1QXynFfIW2dGcDd-29" value="制成成品颗粒饲料" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="-fVGK1QXynFfIW2dGcDd-5">
+          <mxGeometry x="500" y="22.189999999999998" width="30" height="105.62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
