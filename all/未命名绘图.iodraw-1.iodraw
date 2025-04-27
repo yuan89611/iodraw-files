@@ -492,7 +492,7 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-73" value="免疫荧光技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="378.13" width="82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="试验第1天、第15天和第30天称重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="Claudin-1、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="450" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -517,6 +517,12 @@
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="447.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
