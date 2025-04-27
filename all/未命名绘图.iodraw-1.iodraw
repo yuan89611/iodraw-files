@@ -398,8 +398,8 @@
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="536" y="537" as="sourcePoint" />
-            <mxPoint x="536" y="587" as="targetPoint" />
+            <mxPoint x="539.5" y="537" as="sourcePoint" />
+            <mxPoint x="539.5" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-67" value="转录组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
