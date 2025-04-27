@@ -498,6 +498,9 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-91" value="ATAC-seq" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="411" y="387.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
