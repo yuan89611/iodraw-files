@@ -499,7 +499,7 @@
           <mxGeometry x="700" y="338.99999999999994" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-95" value="RT-qPCR 技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="372.68" width="70" height="52" as="geometry" />
+          <mxGeometry x="460" y="372.68" width="90" height="17.32" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
