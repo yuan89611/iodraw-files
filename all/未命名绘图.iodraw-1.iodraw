@@ -541,8 +541,8 @@
             <mxPoint x="421" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-106" value="SDS-PAGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="406" width="70" height="20" as="geometry" />
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-106" value="WB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="406" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
