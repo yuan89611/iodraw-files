@@ -412,7 +412,7 @@
           <mxGeometry x="640" y="447.4999999999999" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-71" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="330.31999999999994" width="200" height="99.68" as="geometry" />
+          <mxGeometry x="550" y="339.99999999999994" width="200" height="99.68" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-72" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="c4NzuB29dhGZa8C2kVkc-71">
           <mxGeometry x="70" width="130" height="20" as="geometry" />
@@ -499,7 +499,7 @@
           <mxGeometry x="411" y="387.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="355" y="310" width="20" height="120" as="geometry" />
+          <mxGeometry x="353" y="314" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
