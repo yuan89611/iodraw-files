@@ -406,7 +406,7 @@
           <mxGeometry x="290" y="387.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-68" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="429.9999999999999" width="27.5" height="70" as="geometry" />
+          <mxGeometry x="762.5" y="497.9999999999999" width="27.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-70" value="采血、肠道组织、结肠内容物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="447.4999999999999" width="130" height="35" as="geometry" />
@@ -487,7 +487,7 @@
           <mxGeometry x="353" y="314" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-72" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="359.99999999999994" width="130" height="20" as="geometry" />
+          <mxGeometry x="486" y="349.67999999999995" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-73" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;每周监测粪便&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;pH&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="394.36999999999995" width="130" height="20" as="geometry" />
@@ -496,7 +496,7 @@
           <mxGeometry x="660" y="424.67999999999995" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="369.67999999999995" width="30" height="70" as="geometry" />
+          <mxGeometry x="700" y="338.99999999999994" width="30" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
