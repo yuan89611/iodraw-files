@@ -516,11 +516,14 @@
             <mxPoint x="628" y="148.47000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-20">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-20" target="c4NzuB29dhGZa8C2kVkc-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="718" y="225" as="sourcePoint" />
             <mxPoint x="768" y="175" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-81" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="100.32" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
