@@ -406,10 +406,10 @@
           <mxGeometry x="271" y="654.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-68" value="检测紧密连接蛋白表达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="705" width="70" height="60" as="geometry" />
+          <mxGeometry x="638" y="703" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-70" value="SDS-PAGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="645.13" width="90" height="20" as="geometry" />
+          <mxGeometry x="638" y="645.13" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -496,7 +496,7 @@
           <mxGeometry x="535" y="705" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="丁酸钠调控信号通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="607" width="170" height="20" as="geometry" />
+          <mxGeometry x="638" y="607" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry relative="1" as="geometry" />
@@ -542,28 +542,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-106" value="WB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="645.13" width="60" height="20" as="geometry" />
+          <mxGeometry x="748" y="645.13" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-75" target="c4NzuB29dhGZa8C2kVkc-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="697" as="sourcePoint" />
-            <mxPoint x="440" y="647" as="targetPoint" />
+            <mxPoint x="388" y="697" as="sourcePoint" />
+            <mxPoint x="438" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-75" target="c4NzuB29dhGZa8C2kVkc-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="637" as="sourcePoint" />
-            <mxPoint x="700" y="655" as="targetPoint" />
+            <mxPoint x="728" y="637" as="sourcePoint" />
+            <mxPoint x="698" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-111" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="720" y="638.5" width="20" height="75" as="geometry" />
+          <mxGeometry x="718" y="638.5" width="20" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-112" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="723.83" y="656.89" width="15.06" height="75" as="geometry" />
+          <mxGeometry x="721.83" y="656.89" width="15.06" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-113" value="PKC-α/RhoA、MAPK信号通路磷酸化程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="724.94" y="705" width="90" height="58" as="geometry" />
+          <mxGeometry x="722.94" y="703" width="90" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-fVGK1QXynFfIW2dGcDd-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容一：&lt;/font&gt;&lt;span style=&quot;&quot;&gt;添加剂筛选与添加剂量&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="161" width="200" height="50" as="geometry" />
