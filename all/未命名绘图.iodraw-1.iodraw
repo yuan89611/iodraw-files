@@ -327,7 +327,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-4" value="&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: bold;&quot;&gt;研究内容二：&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过瘤胃丁酸钠对SARA瘤胃-结肠环境及屏障功能的调控作用&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-4" value="&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: bold;&quot;&gt;研究内容一：&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过瘤胃丁酸钠对SARA瘤胃-结肠环境及屏障功能的调控作用&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="120" width="200" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -340,7 +340,7 @@
           <mxGeometry x="342.5" y="110.32" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-8" value="动物试验设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="280" y="125" width="25" height="100" as="geometry" />
+          <mxGeometry x="274" y="125" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-9" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="196.19" width="148" height="20" as="geometry" />
