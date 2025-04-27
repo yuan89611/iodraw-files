@@ -501,9 +501,6 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-95" value="RT-qPCR 技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="378.13" width="90" height="20" as="geometry" />
         </mxCell>
@@ -513,11 +510,8 @@
             <mxPoint x="587.25" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-97" target="c4NzuB29dhGZa8C2kVkc-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="检测Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="426.88" width="90" height="60" as="geometry" />
+          <mxGeometry x="460" y="450" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
