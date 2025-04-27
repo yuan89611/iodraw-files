@@ -510,6 +510,11 @@
             <mxPoint x="587.25" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-101" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-96">
+          <mxGeometry x="0.0489" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="检测Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="450" width="90" height="60" as="geometry" />
         </mxCell>
