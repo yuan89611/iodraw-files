@@ -515,8 +515,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="检测Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="450" width="90" height="60" as="geometry" />
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="447.5" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
