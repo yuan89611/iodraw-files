@@ -328,186 +328,186 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c4NzuB29dhGZa8C2kVkc-4" value="&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: bold;&quot;&gt;研究内容一：&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过瘤胃丁酸钠对SARA瘤胃-结肠环境及屏障功能的调控作用&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="121" width="200" height="75" as="geometry" />
+          <mxGeometry y="387" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="81" width="570" height="190" as="geometry" />
+          <mxGeometry x="250" y="347" width="570" height="190" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="151.88" width="50" height="22" as="geometry" />
+          <mxGeometry x="200" y="417.88" width="50" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-7" value="35头育肥湖羊分四组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="111.32" width="148" height="20" as="geometry" />
+          <mxGeometry x="322.5" y="377.32" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-8" value="动物试验设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="262" y="126" width="25" height="100" as="geometry" />
+          <mxGeometry x="262" y="392" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-9" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="197.19" width="148" height="20" as="geometry" />
+          <mxGeometry x="322.5" y="463.19" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-17" target="c4NzuB29dhGZa8C2kVkc-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="176.00000000000006" as="sourcePoint" />
-            <mxPoint x="560" y="121" as="targetPoint" />
+            <mxPoint x="555" y="442.00000000000006" as="sourcePoint" />
+            <mxPoint x="560" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-17" target="c4NzuB29dhGZa8C2kVkc-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="169.07" as="sourcePoint" />
-            <mxPoint x="617.5" y="199.07" as="targetPoint" />
+            <mxPoint x="555" y="435.07" as="sourcePoint" />
+            <mxPoint x="617.5" y="465.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="289" y="120.32" width="30" height="123" as="geometry" />
+          <mxGeometry x="289" y="386.32" width="30" height="123" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-14" value="每日定时饲喂，自由饮水" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="232.92000000000002" width="148" height="20" as="geometry" />
+          <mxGeometry x="322.5" y="498.92" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-15" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;NC（3）、HC（16）、LSB（8）、HSB（8）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="145.69" width="148" height="34.38" as="geometry" />
+          <mxGeometry x="322.5" y="411.69" width="148" height="34.38" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="474.5" y="120.32" width="20" height="123" as="geometry" />
+          <mxGeometry x="474.5" y="386.32" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-17" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498.5" y="126.82" width="25" height="110" as="geometry" />
+          <mxGeometry x="498.5" y="392.82" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-18" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537.25" y="189.9" width="27.5" height="70" as="geometry" />
+          <mxGeometry x="537.25" y="455.9" width="27.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-18" target="c4NzuB29dhGZa8C2kVkc-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="230.07" as="sourcePoint" />
-            <mxPoint x="630" y="180.07" as="targetPoint" />
+            <mxPoint x="580" y="496.07" as="sourcePoint" />
+            <mxPoint x="630" y="446.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-20" value="采血、肠道组织、结肠内容物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="208.32" width="100" height="35" as="geometry" />
+          <mxGeometry x="583" y="474.32" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-54" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容三：&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过瘤胃丁酸钠干预SARA肠道屏障的多维度调控网络与分子机制&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="388.5" width="200" height="75" as="geometry" />
+          <mxGeometry y="654.5" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="321" width="570" height="190" as="geometry" />
+          <mxGeometry x="250" y="587" width="570" height="190" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="405" width="50" height="22" as="geometry" />
+          <mxGeometry x="200" y="671" width="50" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-57" value="多组学技术" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="276" y="340.99999999999994" width="148" height="20" as="geometry" />
+          <mxGeometry x="276" y="607" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="537" y="271" as="sourcePoint" />
-            <mxPoint x="537" y="321" as="targetPoint" />
+            <mxPoint x="537" y="537" as="sourcePoint" />
+            <mxPoint x="537" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-67" value="转录组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="388.9999999999999" width="25" height="110" as="geometry" />
+          <mxGeometry x="277" y="654.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-68" value="检测紧密连接蛋白表达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="435" width="70" height="58" as="geometry" />
+          <mxGeometry x="655" y="701" width="70" height="58" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-70" value="SDS-PAGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="379.13" width="80" height="20" as="geometry" />
+          <mxGeometry x="650" y="645.13" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="99.5" y="210.5" as="sourcePoint" />
-            <mxPoint x="99.5" y="388.5" as="targetPoint" />
+            <mxPoint x="99.5" y="476.5" as="sourcePoint" />
+            <mxPoint x="99.5" y="654.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-22" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="91.32" width="100" height="20" as="geometry" />
+          <mxGeometry x="583" y="357.32" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;每周监测粪便&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;pH&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="126.82" width="100" height="20" as="geometry" />
+          <mxGeometry x="583" y="392.82" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-24" value="试验第1天、第15天和第30天称重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="159.13" width="100" height="35" as="geometry" />
+          <mxGeometry x="583" y="425.13" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-25" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="101" width="30" height="70" as="geometry" />
+          <mxGeometry x="536" y="367" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-25" target="c4NzuB29dhGZa8C2kVkc-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="594" y="177.37" as="sourcePoint" />
-            <mxPoint x="616" y="130.37" as="targetPoint" />
+            <mxPoint x="594" y="443.37" as="sourcePoint" />
+            <mxPoint x="616" y="396.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-25" target="c4NzuB29dhGZa8C2kVkc-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574" y="153.22000000000003" as="sourcePoint" />
-            <mxPoint x="596" y="106.22000000000003" as="targetPoint" />
+            <mxPoint x="574" y="419.22" as="sourcePoint" />
+            <mxPoint x="596" y="372.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-25" target="c4NzuB29dhGZa8C2kVkc-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="606" y="196.47000000000003" as="sourcePoint" />
-            <mxPoint x="628" y="149.47000000000003" as="targetPoint" />
+            <mxPoint x="606" y="462.47" as="sourcePoint" />
+            <mxPoint x="628" y="415.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-20" target="c4NzuB29dhGZa8C2kVkc-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="718" y="226" as="sourcePoint" />
-            <mxPoint x="768" y="176" as="targetPoint" />
+            <mxPoint x="718" y="492" as="sourcePoint" />
+            <mxPoint x="768" y="442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-81" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;LPS&lt;/span&gt;&lt;span style=&quot;&quot;&gt;含量&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="91.64" width="60" height="39.68" as="geometry" />
+          <mxGeometry x="720" y="357.64" width="60" height="39.68" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-82" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;&quot;&gt;免疫活性&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2012px%3B%26quot%3B%20face%3D%26quot%3BHelvetica%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3B%26quot%3B%26gt%3B%E6%B5%8B%E5%AE%9A%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3B%26quot%3B%20lang%3D%26quot%3BEN-US%26quot%3B%26gt%3BLPS%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3B%26quot%3B%26gt%3B%E7%9A%84%E5%90%AB%E9%87%8F%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22740%22%20y%3D%22110.32%22%20width%3D%2260%22%20height%3D%2239.68%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="140.39" width="60" height="39.68" as="geometry" />
+          <mxGeometry x="720" y="406.39" width="60" height="39.68" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-85" value="观察结肠紧密连接形态和超微结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="189.9" width="60" height="72.5" as="geometry" />
+          <mxGeometry x="720" y="455.9" width="60" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-20" target="c4NzuB29dhGZa8C2kVkc-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="718" y="206" as="sourcePoint" />
-            <mxPoint x="768" y="156" as="targetPoint" />
+            <mxPoint x="718" y="472" as="sourcePoint" />
+            <mxPoint x="768" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-20" target="c4NzuB29dhGZa8C2kVkc-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="728" y="216" as="sourcePoint" />
-            <mxPoint x="778" y="166" as="targetPoint" />
+            <mxPoint x="728" y="482" as="sourcePoint" />
+            <mxPoint x="778" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-89" value="宏基因组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="388.9999999999999" width="25" height="110" as="geometry" />
+          <mxGeometry x="317" y="654.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-90" value="代谢组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="388.9999999999999" width="25" height="110" as="geometry" />
+          <mxGeometry x="357" y="654.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-91" value="ATAC-seq" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="398" y="388.9999999999999" width="25" height="110" as="geometry" />
+          <mxGeometry x="398" y="654.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="340" y="315" width="20" height="120" as="geometry" />
+          <mxGeometry x="340" y="581" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-72" value="过瘤胃丁酸钠调控机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="341" width="190" height="20" as="geometry" />
+          <mxGeometry x="443" y="607" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-73" value="免疫荧光技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543" y="379.13" width="90" height="20" as="geometry" />
+          <mxGeometry x="543" y="645.13" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="Claudin-1、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543" y="439" width="90" height="60" as="geometry" />
+          <mxGeometry x="543" y="705" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="丁酸钠调控信号通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="341" width="140" height="20" as="geometry" />
+          <mxGeometry x="650" y="607" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-95" value="RT-qPCR 技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="379.13" width="90" height="20" as="geometry" />
+          <mxGeometry x="443" y="645.13" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520.25" y="441" as="sourcePoint" />
-            <mxPoint x="570.25" y="391" as="targetPoint" />
+            <mxPoint x="520.25" y="707" as="sourcePoint" />
+            <mxPoint x="570.25" y="657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-101" value="检测mRNA转录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-96">
@@ -516,12 +516,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="439" width="90" height="60" as="geometry" />
+          <mxGeometry x="443" y="705" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-73" target="c4NzuB29dhGZa8C2kVkc-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="547.75" y="469" as="sourcePoint" />
-            <mxPoint x="597.75" y="419" as="targetPoint" />
+            <mxPoint x="547.75" y="735" as="sourcePoint" />
+            <mxPoint x="597.75" y="685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-103" value="检测蛋白分布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-102">
@@ -531,39 +531,39 @@
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-72" target="c4NzuB29dhGZa8C2kVkc-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="373" y="431" as="sourcePoint" />
-            <mxPoint x="423" y="381" as="targetPoint" />
+            <mxPoint x="373" y="697" as="sourcePoint" />
+            <mxPoint x="423" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-72" target="c4NzuB29dhGZa8C2kVkc-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="373" y="431" as="sourcePoint" />
-            <mxPoint x="423" y="381" as="targetPoint" />
+            <mxPoint x="373" y="697" as="sourcePoint" />
+            <mxPoint x="423" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-106" value="WB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="379.13" width="50" height="20" as="geometry" />
+          <mxGeometry x="740" y="645.13" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-75" target="c4NzuB29dhGZa8C2kVkc-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="431" as="sourcePoint" />
-            <mxPoint x="440" y="381" as="targetPoint" />
+            <mxPoint x="390" y="697" as="sourcePoint" />
+            <mxPoint x="440" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-75" target="c4NzuB29dhGZa8C2kVkc-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="371" as="sourcePoint" />
-            <mxPoint x="700" y="389" as="targetPoint" />
+            <mxPoint x="730" y="637" as="sourcePoint" />
+            <mxPoint x="700" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-111" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="720" y="372.5" width="20" height="75" as="geometry" />
+          <mxGeometry x="720" y="638.5" width="20" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-112" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="724.94" y="389.77" width="12.83" height="75" as="geometry" />
+          <mxGeometry x="724.94" y="655.77" width="12.83" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-113" value="MAPK信号通路磷酸化程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="433" width="70" height="58" as="geometry" />
+          <mxGeometry x="730" y="699" width="70" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
