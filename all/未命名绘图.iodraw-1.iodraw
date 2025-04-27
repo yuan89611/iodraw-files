@@ -510,7 +510,7 @@
             <mxPoint x="587.25" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-101" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-96">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-101" value="检测mRNA转录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-96">
           <mxGeometry x="0.0489" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
