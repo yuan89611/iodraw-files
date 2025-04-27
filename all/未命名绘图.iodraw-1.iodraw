@@ -523,7 +523,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-81" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598" y="100.32" width="130" height="20" as="geometry" />
+          <mxGeometry x="740" y="110.32" width="60" height="79.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
