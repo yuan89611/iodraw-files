@@ -562,8 +562,8 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-112" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="724.94" y="388.77" width="12.83" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-113" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-113" value="PKC-α/RhoA、MAPK信号通路磷酸化程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
