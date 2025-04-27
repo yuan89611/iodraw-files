@@ -531,7 +531,7 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-85" value="紧密连接形态和超微结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="197.5" width="60" height="56.03" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-20" target="c4NzuB29dhGZa8C2kVkc-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="718" y="205" as="sourcePoint" />
             <mxPoint x="768" y="155" as="targetPoint" />
