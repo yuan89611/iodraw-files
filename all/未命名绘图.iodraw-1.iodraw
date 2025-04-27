@@ -393,7 +393,7 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="398.13" width="60" height="28.75" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-57" value="多组学" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-57" value="多组学技术" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="289" y="339.99999999999994" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-59" value="预实验7天，正式饲喂30天" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
