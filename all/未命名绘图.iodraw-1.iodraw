@@ -487,10 +487,10 @@
           <mxGeometry x="353" y="314" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-72" value="过瘤胃丁酸钠调控机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="340" width="160" height="20" as="geometry" />
+          <mxGeometry x="460" y="340" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-73" value="免疫荧光技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="568" y="378.13" width="42" height="20" as="geometry" />
+          <mxGeometry x="568" y="378.13" width="82" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="试验第1天、第15天和第30天称重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="424.67999999999995" width="130" height="35" as="geometry" />
