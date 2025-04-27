@@ -495,7 +495,7 @@
         <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="Claudin-1、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="447.5" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="饲喂期间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="信号通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="313.99999999999994" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
