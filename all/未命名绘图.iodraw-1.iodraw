@@ -496,7 +496,7 @@
           <mxGeometry x="547" y="447.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="丁酸钠调控信号通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="314" width="110" height="20" as="geometry" />
+          <mxGeometry x="660" y="340" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry relative="1" as="geometry" />
