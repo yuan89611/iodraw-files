@@ -367,10 +367,10 @@
           <mxGeometry x="334.5" y="144.69" width="148" height="34.38" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="489.5" y="119.32" width="20" height="123" as="geometry" />
+          <mxGeometry x="486.5" y="119.32" width="20" height="123" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-17" value="数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514.5" y="125.82" width="25" height="110" as="geometry" />
+          <mxGeometry x="510.5" y="125.82" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-18" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="564.5" y="190" width="27.5" height="70" as="geometry" />
@@ -385,7 +385,7 @@
           <mxGeometry x="632" y="207.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="562" y="90.32" width="200" height="99.68" as="geometry" />
+          <mxGeometry x="556" y="90.32" width="200" height="99.68" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-22" value="每日记录采食量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="c4NzuB29dhGZa8C2kVkc-21">
           <mxGeometry x="70" width="130" height="20" as="geometry" />
