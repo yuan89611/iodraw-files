@@ -403,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-67" value="转录组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="375.9999999999999" width="25" height="110" as="geometry" />
+          <mxGeometry x="290" y="375.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-68" value="饲喂结束屠宰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="429.9999999999999" width="27.5" height="70" as="geometry" />
@@ -496,7 +496,7 @@
           <mxGeometry x="368" y="375.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-91" value="ATAC-seq" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="412" y="375.9999999999999" width="25" height="110" as="geometry" />
+          <mxGeometry x="411" y="375.9999999999999" width="25" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
