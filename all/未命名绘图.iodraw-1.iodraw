@@ -487,27 +487,27 @@
           <mxGeometry x="340" y="314" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-72" value="过瘤胃丁酸钠调控机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="340" width="190" height="20" as="geometry" />
+          <mxGeometry x="441" y="341" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-73" value="免疫荧光技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="378.13" width="90" height="20" as="geometry" />
+          <mxGeometry x="541" y="379.13" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-74" value="Claudin-1、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="447.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="541" y="448.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-75" value="丁酸钠调控信号通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="340" width="140" height="20" as="geometry" />
+          <mxGeometry x="650" y="340" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-95" value="RT-qPCR 技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="378.13" width="90" height="20" as="geometry" />
+          <mxGeometry x="441" y="379.13" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-95" target="c4NzuB29dhGZa8C2kVkc-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="524.25" y="440" as="sourcePoint" />
-            <mxPoint x="574.25" y="390" as="targetPoint" />
+            <mxPoint x="518.25" y="441" as="sourcePoint" />
+            <mxPoint x="568.25" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-101" value="检测mRNA转录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-96">
@@ -516,12 +516,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-97" value="Claudin-1、Claudin-4、Occludin和ZO-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="447.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="441" y="448.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-73" target="c4NzuB29dhGZa8C2kVkc-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="551.75" y="468" as="sourcePoint" />
-            <mxPoint x="601.75" y="418" as="targetPoint" />
+            <mxPoint x="545.75" y="469" as="sourcePoint" />
+            <mxPoint x="595.75" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-103" value="检测蛋白分布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4NzuB29dhGZa8C2kVkc-102">
@@ -531,14 +531,14 @@
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-72" target="c4NzuB29dhGZa8C2kVkc-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="430" as="sourcePoint" />
-            <mxPoint x="427" y="380" as="targetPoint" />
+            <mxPoint x="371" y="431" as="sourcePoint" />
+            <mxPoint x="421" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c4NzuB29dhGZa8C2kVkc-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4NzuB29dhGZa8C2kVkc-72" target="c4NzuB29dhGZa8C2kVkc-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="430" as="sourcePoint" />
-            <mxPoint x="427" y="380" as="targetPoint" />
+            <mxPoint x="371" y="431" as="sourcePoint" />
+            <mxPoint x="421" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
