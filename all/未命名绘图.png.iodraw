@@ -688,8 +688,8 @@
         <mxCell id="-fVGK1QXynFfIW2dGcDd-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="201" width="50" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="q_Vky9c5Kw-MjJKYTmDh-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="830" width="640" height="60" as="geometry" />
+        <mxCell id="q_Vky9c5Kw-MjJKYTmDh-1" value="明确过瘤胃丁酸钠缓解高精料日粮诱导湖羊结肠屏障损伤的机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="830" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
